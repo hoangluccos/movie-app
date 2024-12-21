@@ -3,7 +3,7 @@ import ImgPoster from "../assets/nghe-noi-em-thich-toi.png";
 import ImgPlay from "../assets/play-button.png";
 function Banner() {
   return (
-    <div className="w-full bg-banner h-[700px] bg-no-repeat bg-cover relative p-5">
+    <div className="w-full bg-banner h-[700px] bg-no-repeat bg-cover relative p-5 mt-[56px]">
       <div className="absolute w-full h-full top-0 left-0 bg-black opacity-[30%]" />
       <div className="content flex p-[36px] justify-center space-x-[86px] relative z-20">
         <div className="info w-[50%]">
